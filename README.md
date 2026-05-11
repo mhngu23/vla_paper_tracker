@@ -20,6 +20,7 @@ The goal is to maintain a structured and regularly updated reading list for rese
 
 | Date | Title | Authors | Venue | Notes |
 |---|---|---|---|---|
+| 2024-10-09 | [Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success](https://arxiv.org/abs/2502.19645) | Kim et al. | ArXiv 2025 | Studies different fine-tuning strategies for OpenVLA |
 | 2025-02-24 | [π0.5: a Vision-Language-Action Model with Open-World Generalization](https://www.physicalintelligence.company/download/pi05.pdf) | Physical Intelligence et al. | PI Blog / Technical Report 2025 | Improved generalization and robustness over π0 |
 | 2024-10-09 | [π0: A Vision-Language-Action Flow Model for General Robot Control](https://www.physicalintelligence.company/download/pi0.pdf) | Physical Intelligence et al. | ArXiv 2024 | Introduces flow matching for action generation |
 | 2024-06-11 | [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/pdf/2406.09246) | Kim et al. | ArXiv 2024 | Open-source VLA trained on Open X-Embodiment |
@@ -39,7 +40,6 @@ The goal is to maintain a structured and regularly updated reading list for rese
 
 | Date | Title | Authors | Venue | Notes |
 |---|---|---|---|---|
-| 2024-10-09 | [π0: A Vision-Language-Action Flow Model for General Robot Control](https://www.physicalintelligence.company/download/pi0.pdf) | Physical Intelligence et al. | ArXiv 2024 | Flow matching instead of autoregressive actions |
 | 2023-03-21 | [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/pdf/2303.04137) | Chi et al. | RSS 2023 | Foundational diffusion-based robot policy |
 | 2022-11-16 | [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/pdf/2106.01345) | Chen et al. | NeurIPS 2021 | Sequence modeling approach to control |
 | 2021-06-17 | [Behavior Transformers: Cloning k Modes with Transformer-Based Policies](https://arxiv.org/pdf/2206.11251) | Shafiullah et al. | CoRL 2022 | Multimodal action prediction |
