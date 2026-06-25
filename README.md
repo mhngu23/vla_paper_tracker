@@ -20,6 +20,7 @@ The goal is to maintain a structured and regularly updated reading list for rese
 
 | Date | Title | Authors | Venue | Notes |
 |---|---|---|---|---|
+| 2026-03-10 | [Cross-Hand Latent Representation for Vision-Language-Action Models](https://arxiv.org/pdf/2603.10158) | Jiang et al. | CVPR 2026 | Studies unified latent action space. |
 | 2025-11-10 | [X-VLA: SOFT-PROMPTED TRANSFORMER AS SCALABLE CROSS-EMBODIMENT VISION-LANGUAGEACTION MODEL](https://openreview.net/pdf?id=kt51kZH4aG) | Zheng et al. | ICLR 2026 | Studies cross-embodidment VLA training through soft-prompt |
 | 2025-04-28 | [Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success](https://arxiv.org/abs/2502.19645) | Kim et al. | ArXiv 2025 | Studies different fine-tuning strategies for OpenVLA |
 | 2025-02-24 | [π0.5: a Vision-Language-Action Model with Open-World Generalization](https://www.physicalintelligence.company/download/pi05.pdf) | Physical Intelligence et al. | PI Blog / Technical Report 2025 | Improved generalization and robustness over π0 |
